@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "nombre": "Kettlebell de 16 kg",
+        "descripcion": "Kettlebell de hierro fundido de alta calidad, ideal para ejercicios de CrossFit.",
+        "precio": 3800,
+        "imagen": "/imagenes/Kettlebell.jpg",
+        "stock": 15,
+        "categoria": "Fuerza"
+    },
+    {
+        "id": 2,
+        "nombre": "Cuerda para saltar de velocidad",
+        "descripcion": "Cuerda liviana y rápida para saltar, perfecta para entrenamientos de CrossFit.",
+        "precio": 1200,
+        "imagen": "/imagenes/Cuerda.jpg",
+        "stock": 20,
+        "categoria": "Cardio"
+    },
+    {
+        "id": 3,
+        "nombre": "Mancuernas ajustables",
+        "descripcion": "Par de mancuernas ajustables con discos intercambiables, ideal para ejercicios de fuerza en CrossFit.",
+        "precio": 7500,
+        "imagen": "/imagenes/Mancuernas.jpg",
+        "stock": 10,
+        "categoria": "Fuerza"
+    },
+    {
+        "id": 4,
+        "nombre": "Anillas de gimnasia",
+        "descripcion": "Anillas de madera resistentes para ejercicios de gimnasia y CrossFit.",
+        "precio": 4500,
+        "imagen": "/imagenes/Anillas.jpg",
+        "stock": 8,
+        "categoria": "Fuerza"
+    },
+    {
+        "id": 5,
+        "nombre": "Caja pliométrica",
+        "descripcion": "Caja pliométrica de madera resistente para entrenamientos de saltos en CrossFit.",
+        "precio": 5500,
+        "imagen": "/imagenes/Caja.jpg",
+        "stock": 12,
+        "categoria": "Cardio"
+    },
+    {
+        "id": 6,
+        "nombre": "Banda de resistencia para pull-ups",
+        "descripcion": "Banda elástica para ayudar en la realización de pull-ups y otros ejercicios de CrossFit.",
+        "precio": 900,
+        "imagen": "/imagenes/Banda.jpg",
+        "stock": 25,
+        "categoria": "Fuerza"
+    },
+    {
+        "id": 7,
+        "nombre": "Pesa rusa de 20 kg",
+        "descripcion": "Pesa rusa de hierro fundido de 20 kg, perfecta para ejercicios de levantamiento y CrossFit.",
+        "precio": 4800,
+        "imagen": "/imagenes/Kettlebell2.jpg",
+        "stock": 18,
+        "categoria": "Fuerza"
+    },
+    {
+        "id": 8,
+        "nombre": "Rueda abdominal",
+        "descripcion": "Rueda abdominal resistente para fortalecimiento del core en entrenamientos de CrossFit.",
+        "precio": 1800,
+        "imagen": "/imagenes/Rueda.jpg",
+        "stock": 14,
+        "categoria": "Fuerza"
+    },
+    {
+        "id": 9,
+        "nombre": "Chaleco lastrado",
+        "descripcion": "Chaleco ajustable con peso para añadir resistencia a los entrenamientos de CrossFit.",
+        "precio": 6900,
+        "imagen": "/imagenes/Chaleco.jpg",
+        "stock": 6,
+        "categoria": "Cardio"
+    },
+    {
+        "id": 10,
+        "nombre": "Estación de dominadas",
+        "descripcion": "Estación para dominadas y fondos de tríceps, perfecta para ejercicios de CrossFit en casa.",
+        "precio": 10500,
+        "imagen": "/imagenes/Estacion.jpg",
+        "stock": 9,
+        "categoria": "Fuerza"
+    }
+]

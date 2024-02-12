@@ -1,0 +1,19 @@
+
+.boton-restar,
+.boton-sumar {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.cantidad {
+    display: block;
+    font-size: 16px;
+    margin: 0 5px;
+}

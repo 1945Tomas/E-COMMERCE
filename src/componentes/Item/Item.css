@@ -1,0 +1,35 @@
+.item{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 2rem;
+    margin-bottom: 20px;
+    width: 200px;
+    height: auto;
+}
+.item h2{
+    color: black;
+    font-size: 1.5rem;
+    margin-top: 0;
+    
+}
+.item p {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.item img{
+    max-width: 100%;
+    height: 150px;
+    margin-bottom: 10px;
+}
+.precio {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    .item {
+        width: 100%;
+    }}
